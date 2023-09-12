@@ -1,0 +1,1 @@
+# Accommodations-rating-platform
